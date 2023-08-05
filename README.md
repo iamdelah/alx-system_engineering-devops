@@ -1,1 +1,1 @@
-script to view current directory contents in a long format.
+script to display current directory contents.
