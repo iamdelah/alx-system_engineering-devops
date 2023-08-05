@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+script that changes the working directory to the user’s home directory.
