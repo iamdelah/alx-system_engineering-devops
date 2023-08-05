@@ -1,1 +1,1 @@
-This file to execute absolute path name of the current working directory.
+output the contents list of your current directory.
