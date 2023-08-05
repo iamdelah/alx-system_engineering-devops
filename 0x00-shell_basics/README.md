@@ -1,1 +1,1 @@
- current directory contents, including hidden files (starting with .). Use the long format.
+script to display current directory contents.
