@@ -1,1 +1,1 @@
-script to view current directory contents in a long format.
+ current directory contents, including hidden files (starting with .). Use the long format.
