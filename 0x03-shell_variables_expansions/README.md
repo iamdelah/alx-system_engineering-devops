@@ -1,1 +1,1 @@
-script that prints hello user
+ script that prints the result of POWER divided by DIVIDE
